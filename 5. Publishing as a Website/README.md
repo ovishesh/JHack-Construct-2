@@ -15,7 +15,8 @@ Exporting Construct game into a website using Microsoft azure
   4. Fill out the information about your web app
     - Note you should get a tick next to your "App Service Name"
     - To access the website once completed you will go to yourWebAppsName.azurewebsites.net
-  5. Leave the other fields as the default and click **Create** at the bottom  
+  5. For the "Resource Group", select "Use Existing" and choose "Default" option in the dropdown menu
+  6. Click on **Create** at the bottom 
 
 ##### Azure is now deploying the Web App in the background
 ##### Whilst waiting open the Construct 2 application with the game you would like to deploy
