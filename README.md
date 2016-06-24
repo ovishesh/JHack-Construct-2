@@ -1,33 +1,24 @@
-# Game-Dev-Construct-2
+# Microsoft at JHack
 
-### 1. [Introduction and Overview](/Content/Introduction.pptx)
+### 1. Introduction and Overview
+- [Click here](/1. Introduction/Introduction.pptx) to access the Slides from this session.
 
-### 2. Construct 2 - Showcase (Brian)
 
-### 3. [AzureU Activation](https://www.microsoftazurepass.com/howto)
+### 2. Construct 2 - Showcase
+- [Click here]() to access the Slides from this session.
 
-### 4. Project Preperation and Construction (Jason)
 
-### 5. [Azure Overview](https://portal.azure.com)
+### 3. Hands-on Demo with Construct 2
+- [Click here](/3. Construct 2 - Development/) to access the resources from this session.
 
-### 6. Implementing Globals Scoring and Leaderboards(Jason)
 
-1. [Setting up project to convert json to an array] (http://jamesqquick.com/json-to-construct-2-array/)
-2. [Creating a table in Azure and then making a GET request and displaying the results to the user] (http://jamesqquick.com/construct-2-high-scores-with-azure-mobile-apps/)
+### 4. Activate DreamSpark and Microsoft Azure
+- [Click here](/4. Unlock Free Resources/) to access the resources from this session.
 
-Inserting the user's score into our table
 
-``` var api = {
-    post: function (request, response, next) {
-        request.azureMobile.tables('UserScores')
-            .insert({ name: request.query.name, score: request.query.score})
-            .then(results => response.json(results))
-            .catch(next);
-    }
-};
+### 5. Publishing Construct 2 game as a Web app
+- [Click here](/5. Publishing as a Website/) to access the resources from this session.
 
-module.exports = api; ```
 
-### 7. Facebook Integration(Jason or Brian)
-
-### 8. Publish Game to Azure Web Apps(Brian)
+### 6. Wrap Up
+- [Click here](/6. Wrap up/) to access the Slides from this session.
