@@ -5,7 +5,7 @@ Exporting Construct game into a website using Microsoft azure
 
 ## Lets Begin
   1. Open a web browser
-  2. Go to [portal.azure.com](portal.azure.com)
+  2. Go to [portal.azure.com](https://portal.azure.com/)
   3. Log in with the credentials that you activated your dream spark account with
 
 ## Creating a new website
@@ -45,7 +45,7 @@ Exporting Construct game into a website using Microsoft azure
 
 ## Adding Files to One Drive
   1. Open a new tab in your browser
-  2. Go to [onedrive.com](onedrive.com)
+  2. Go to [onedrive.com](https://onedrive.live.com/about/en-nz/)
     - An "Apps" folder will now be created in your One Drive
   3. Click on the "Apps" folder, "Azure Web Apps" and then the folder which your Web App is named after
   4. Select all the items from the directory you exported to from Construct
