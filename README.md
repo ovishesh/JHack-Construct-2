@@ -5,7 +5,7 @@
 
 
 ### 2. Construct 2 - Showcase
-- [Click here]() to access the Slides from this session.
+- [Click here](https://1drv.ms/p/s!AsT6-yAlxrN68xaElBhnTFMfrlrW) to access the Slides from this session.
 
 
 ### 3. Hands-on Demo with Construct 2
