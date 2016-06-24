@@ -1,7 +1,7 @@
 # Publishing as a Website
 Exporting Construct game into a website using Microsoft azure
 
-* Before beginning ensure that you have activated your student access to azure be following the fourth session
+* Before beginning ensure that you have activated your student access to azure by following the fourth session
 
 ## Lets Begin
   1. Open a web browser
